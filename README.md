@@ -108,20 +108,6 @@ Este é um sistema desenvolvido em Python utilizando a biblioteca Tkinter para i
 
 <br>
 
-## Excluir
-
-<img width="745" height="431" alt="image" src="https://github.com/user-attachments/assets/95f5683a-7bfb-402f-8eba-4468a1d0f966" />
-
-***Comida Selecionada***
-
-<img width="746" height="428" alt="image" src="https://github.com/user-attachments/assets/67eb7a0b-31c3-4f0c-a28d-32dd54127194" />
-
-.......... Carne de sol ----------- ***Comida excluída***
-
-foto print da tela
-
-<br>
-
 ## Nova Comida
 
 ***Adição de novo prato***
@@ -135,4 +121,5 @@ foto print da tela
 ***Prato Salvo!***
 
 <img width="743" height="434" alt="image" src="https://github.com/user-attachments/assets/bd7a584c-be6d-4aca-8a94-2df5b1f82831" />
+
 
