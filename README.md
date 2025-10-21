@@ -29,7 +29,8 @@ Este é um sistema desenvolvido em Python utilizando a biblioteca Tkinter para i
 
 ## Diagrama (DER)
 
-fto print diagrama
+<img width="1168" height="573" alt="image" src="https://github.com/user-attachments/assets/0a318db0-b7a5-424e-870a-0cb7de79a4a9" />
+
 
 ## Tela Inicial
 
@@ -134,3 +135,4 @@ foto print da tela
 ***Prato Salvo!***
 
 <img width="743" height="434" alt="image" src="https://github.com/user-attachments/assets/bd7a584c-be6d-4aca-8a94-2df5b1f82831" />
+
