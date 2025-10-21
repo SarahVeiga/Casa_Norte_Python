@@ -123,3 +123,4 @@ Este é um sistema desenvolvido em Python utilizando a biblioteca Tkinter para i
 <img width="743" height="434" alt="image" src="https://github.com/user-attachments/assets/bd7a584c-be6d-4aca-8a94-2df5b1f82831" />
 
 
+
